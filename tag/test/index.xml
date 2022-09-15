@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test | </title>
+    <link>https://toshi67026.github.io/tag/test/</link>
+      <atom:link href="https://toshi67026.github.io/tag/test/index.xml" rel="self" type="application/rss+xml" />
+    <description>Test</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://toshi67026.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Test</title>
+      <link>https://toshi67026.github.io/tag/test/</link>
+    </image>
+    
+    <item>
+      <title>Test</title>
+      <link>https://toshi67026.github.io/post/test/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://toshi67026.github.io/post/test/</guid>
+      <description>&lt;h2 id=&#34;tbd&#34;&gt;TBD&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://toshi67026.github.io/project/test/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://toshi67026.github.io/project/test/</guid>
+      <description>&lt;h2 id=&#34;tbd&#34;&gt;TBD&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
